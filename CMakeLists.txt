@@ -9,8 +9,8 @@ set(EXTENSION_CATEGORY "Utilities")
 set(EXTENSION_CONTRIBUTORS "Lucas Gandel (Kitware SAS), Laurenn Lam (Kitware SAS), Thomas Galland (Kitware SAS)")
 set(EXTENSION_DESCRIPTION "Render the mouse cursor as a virtual cursor in the scene.
 ")
-set(EXTENSION_ICONURL "https://www.example.com/Slicer/Extensions/SlicerVirtualCursor.png")
-set(EXTENSION_SCREENSHOTURLS "https://www.example.com/Slicer/Extensions/SlicerVirtualCursor/Screenshots/1.png")
+set(EXTENSION_ICONURL "https://github.com/KitwareMedical/SlicerVirtualMouseCursor/blob/main/SlicerVirtualCursor.png")
+set(EXTENSION_SCREENSHOTURLS "https://github.com/KitwareMedical/SlicerVirtualMouseCursor/blob/main/SlicerVirtualCursorScene.png")
 set(EXTENSION_DEPENDS "NA") # Specified as a list or "NA" if no dependencies
 
 #-----------------------------------------------------------------------------
