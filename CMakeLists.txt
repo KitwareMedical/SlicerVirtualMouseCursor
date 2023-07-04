@@ -4,7 +4,7 @@ project(SlicerVirtualCursor)
 
 #-----------------------------------------------------------------------------
 # Extension meta-information
-set(EXTENSION_HOMEPAGE "https://www.slicer.org/wiki/Documentation/Nightly/Extensions/SlicerVirtualCursor")
+set(EXTENSION_HOMEPAGE "https://github.com/KitwareMedical/SlicerVirtualMouseCursor#readme")
 set(EXTENSION_CATEGORY "Utilities")
 set(EXTENSION_CONTRIBUTORS "Lucas Gandel (Kitware SAS), Laurenn Lam (Kitware SAS), Thomas Galland (Kitware SAS)")
 set(EXTENSION_DESCRIPTION "Render the mouse cursor as a virtual cursor in the scene.
