@@ -10,6 +10,13 @@ The virtual cursor node is projected onto the surface or volume being hovered, o
 
 ![](SlicerVirtualCursorScene.png)
 
+## How to use
+
+This extension provides a single module in the "Utilities" category.
+When selecting the VirtualCursor module, the application mouse pointer is automatically replaced by a fiducial node when hovering the render views.
+The virtual cursor can be disabled at any time by unchecking the corresponding checkbox in the module's widget.
+A slider is available as well in order to control the size of the cursor.
+
 ## License
 
 This software is licensed under the terms of the [Apache Licence Version 2.0](LICENSE).
